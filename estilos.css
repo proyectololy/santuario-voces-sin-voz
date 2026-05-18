@@ -1,0 +1,45 @@
+nav a {
+    display: block;
+    text-decoration: none;
+    color: darkgreen;
+    font-size: 25px;
+    margin-top: 40px;
+}
+
+body {
+    background-color: aquamarine;
+    text-align: center;
+}
+
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: gray;
+    font-size: 25px;
+    color: black;
+    border-radius: 10px;
+}
+
+p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+
+button {
+    background-color: gray;
+    color: black;
+    border: none;
+    padding: 15px;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+.foto-principal {
+    width: 90%;
+    height: 90vh;
+    object-fit: cover;
+}
+
+.titulo {
+  font-size: 40px;
+}

@@ -1,0 +1,50 @@
+.flex-container.bg-orage {
+    background-color: orange;
+    color: white;
+    margin: 20px 0;
+    padding: 20px;
+    border-radius: 10px;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.flex-container.bg-green {
+    background-color: green;
+    color: white;
+    margin: 20px 0;
+    padding: 20px;
+    border-radius: 10px;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.flex-container.bg-blue {
+    background-color: blue;
+    color: white;
+    margin: 20px 0;
+    padding: 20px;
+    border-radius: 10px;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.flex-container.bg-grey {
+    background-color: grey;
+    color: white;
+    margin: 20px 0;
+    padding: 20px;
+    border-radius: 10px;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+h2 {
+    font-size: 32px;
+    text-align: center;
+    color: black;
+    margin-bottom: 20px;
+    position: relative;
+    font-weight: bold;
+    background-color: grey;
+    font-family: Georgia, 'Times New Roman', Times, serif;;
+}
