@@ -1,0 +1,22 @@
+[
+  {
+    "nombre": "Luna y Oscar",
+    "descripcion": "Rescatados de la calle. Muy cariñosos y buscan un hogar.",
+    "imagen": "Perritos negrito y marron.jpg"
+  },
+  {
+    "nombre": "Luis",
+    "descripcion": "Conozcan a Luis, un animal rescatado que busca un hogar.",
+    "imagen": "ternero.webp"
+  },
+  {
+    "nombre": "Pedro y Leonardo",
+    "descripcion": "Pedro es el chanchito más lindo y siempre acompañado por su amigo fiel Leonardo.",
+    "imagen": "Chachito y perrito.jpg"
+  },
+  {
+    "nombre": "Eugenio",
+    "descripcion": "Eugenio tomando una hermosa siesta.",
+    "imagen": "Caballos relax.jpg"
+  }
+]
