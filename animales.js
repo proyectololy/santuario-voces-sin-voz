@@ -1,4 +1,3 @@
-alert("prueba lorena");
 console.log("JS conectado");
 fetch("animales.json")
   .then(respuesta => {
